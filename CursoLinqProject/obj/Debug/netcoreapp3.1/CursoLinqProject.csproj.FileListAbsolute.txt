@@ -1,0 +1,13 @@
+C:\Users\Liria\OneDrive\Escritorio\CursoLinq\CursoLinqProject\bin\Debug\netcoreapp3.1\CursoLinqProject.exe
+C:\Users\Liria\OneDrive\Escritorio\CursoLinq\CursoLinqProject\bin\Debug\netcoreapp3.1\CursoLinqProject.deps.json
+C:\Users\Liria\OneDrive\Escritorio\CursoLinq\CursoLinqProject\bin\Debug\netcoreapp3.1\CursoLinqProject.runtimeconfig.json
+C:\Users\Liria\OneDrive\Escritorio\CursoLinq\CursoLinqProject\bin\Debug\netcoreapp3.1\CursoLinqProject.runtimeconfig.dev.json
+C:\Users\Liria\OneDrive\Escritorio\CursoLinq\CursoLinqProject\bin\Debug\netcoreapp3.1\CursoLinqProject.dll
+C:\Users\Liria\OneDrive\Escritorio\CursoLinq\CursoLinqProject\bin\Debug\netcoreapp3.1\CursoLinqProject.pdb
+C:\Users\Liria\OneDrive\Escritorio\CursoLinq\CursoLinqProject\obj\Debug\netcoreapp3.1\CursoLinqProject.csprojAssemblyReference.cache
+C:\Users\Liria\OneDrive\Escritorio\CursoLinq\CursoLinqProject\obj\Debug\netcoreapp3.1\CursoLinqProject.AssemblyInfoInputs.cache
+C:\Users\Liria\OneDrive\Escritorio\CursoLinq\CursoLinqProject\obj\Debug\netcoreapp3.1\CursoLinqProject.AssemblyInfo.cs
+C:\Users\Liria\OneDrive\Escritorio\CursoLinq\CursoLinqProject\obj\Debug\netcoreapp3.1\CursoLinqProject.csproj.CoreCompileInputs.cache
+C:\Users\Liria\OneDrive\Escritorio\CursoLinq\CursoLinqProject\obj\Debug\netcoreapp3.1\CursoLinqProject.dll
+C:\Users\Liria\OneDrive\Escritorio\CursoLinq\CursoLinqProject\obj\Debug\netcoreapp3.1\CursoLinqProject.pdb
+C:\Users\Liria\OneDrive\Escritorio\CursoLinq\CursoLinqProject\obj\Debug\netcoreapp3.1\CursoLinqProject.genruntimeconfig.cache
