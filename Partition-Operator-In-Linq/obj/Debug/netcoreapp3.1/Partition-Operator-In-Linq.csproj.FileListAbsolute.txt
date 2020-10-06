@@ -1,0 +1,13 @@
+C:\Users\Liria\OneDrive\Escritorio\CursoLinq\Partition-Operator-In-Linq\bin\Debug\netcoreapp3.1\Partition-Operator-In-Linq.exe
+C:\Users\Liria\OneDrive\Escritorio\CursoLinq\Partition-Operator-In-Linq\bin\Debug\netcoreapp3.1\Partition-Operator-In-Linq.deps.json
+C:\Users\Liria\OneDrive\Escritorio\CursoLinq\Partition-Operator-In-Linq\bin\Debug\netcoreapp3.1\Partition-Operator-In-Linq.runtimeconfig.json
+C:\Users\Liria\OneDrive\Escritorio\CursoLinq\Partition-Operator-In-Linq\bin\Debug\netcoreapp3.1\Partition-Operator-In-Linq.runtimeconfig.dev.json
+C:\Users\Liria\OneDrive\Escritorio\CursoLinq\Partition-Operator-In-Linq\bin\Debug\netcoreapp3.1\Partition-Operator-In-Linq.dll
+C:\Users\Liria\OneDrive\Escritorio\CursoLinq\Partition-Operator-In-Linq\bin\Debug\netcoreapp3.1\Partition-Operator-In-Linq.pdb
+C:\Users\Liria\OneDrive\Escritorio\CursoLinq\Partition-Operator-In-Linq\obj\Debug\netcoreapp3.1\Partition-Operator-In-Linq.csprojAssemblyReference.cache
+C:\Users\Liria\OneDrive\Escritorio\CursoLinq\Partition-Operator-In-Linq\obj\Debug\netcoreapp3.1\Partition-Operator-In-Linq.AssemblyInfoInputs.cache
+C:\Users\Liria\OneDrive\Escritorio\CursoLinq\Partition-Operator-In-Linq\obj\Debug\netcoreapp3.1\Partition-Operator-In-Linq.AssemblyInfo.cs
+C:\Users\Liria\OneDrive\Escritorio\CursoLinq\Partition-Operator-In-Linq\obj\Debug\netcoreapp3.1\Partition-Operator-In-Linq.csproj.CoreCompileInputs.cache
+C:\Users\Liria\OneDrive\Escritorio\CursoLinq\Partition-Operator-In-Linq\obj\Debug\netcoreapp3.1\Partition-Operator-In-Linq.dll
+C:\Users\Liria\OneDrive\Escritorio\CursoLinq\Partition-Operator-In-Linq\obj\Debug\netcoreapp3.1\Partition-Operator-In-Linq.pdb
+C:\Users\Liria\OneDrive\Escritorio\CursoLinq\Partition-Operator-In-Linq\obj\Debug\netcoreapp3.1\Partition-Operator-In-Linq.genruntimeconfig.cache
