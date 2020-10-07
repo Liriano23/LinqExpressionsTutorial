@@ -1,0 +1,13 @@
+C:\Users\Liria\OneDrive\Escritorio\CursoLinq\Conversion-Operators-In-LINQ\bin\Debug\netcoreapp3.1\Conversion-Operators-In-LINQ.exe
+C:\Users\Liria\OneDrive\Escritorio\CursoLinq\Conversion-Operators-In-LINQ\bin\Debug\netcoreapp3.1\Conversion-Operators-In-LINQ.deps.json
+C:\Users\Liria\OneDrive\Escritorio\CursoLinq\Conversion-Operators-In-LINQ\bin\Debug\netcoreapp3.1\Conversion-Operators-In-LINQ.runtimeconfig.json
+C:\Users\Liria\OneDrive\Escritorio\CursoLinq\Conversion-Operators-In-LINQ\bin\Debug\netcoreapp3.1\Conversion-Operators-In-LINQ.runtimeconfig.dev.json
+C:\Users\Liria\OneDrive\Escritorio\CursoLinq\Conversion-Operators-In-LINQ\bin\Debug\netcoreapp3.1\Conversion-Operators-In-LINQ.dll
+C:\Users\Liria\OneDrive\Escritorio\CursoLinq\Conversion-Operators-In-LINQ\bin\Debug\netcoreapp3.1\Conversion-Operators-In-LINQ.pdb
+C:\Users\Liria\OneDrive\Escritorio\CursoLinq\Conversion-Operators-In-LINQ\obj\Debug\netcoreapp3.1\Conversion-Operators-In-LINQ.csprojAssemblyReference.cache
+C:\Users\Liria\OneDrive\Escritorio\CursoLinq\Conversion-Operators-In-LINQ\obj\Debug\netcoreapp3.1\Conversion-Operators-In-LINQ.AssemblyInfoInputs.cache
+C:\Users\Liria\OneDrive\Escritorio\CursoLinq\Conversion-Operators-In-LINQ\obj\Debug\netcoreapp3.1\Conversion-Operators-In-LINQ.AssemblyInfo.cs
+C:\Users\Liria\OneDrive\Escritorio\CursoLinq\Conversion-Operators-In-LINQ\obj\Debug\netcoreapp3.1\Conversion-Operators-In-LINQ.csproj.CoreCompileInputs.cache
+C:\Users\Liria\OneDrive\Escritorio\CursoLinq\Conversion-Operators-In-LINQ\obj\Debug\netcoreapp3.1\Conversion-Operators-In-LINQ.dll
+C:\Users\Liria\OneDrive\Escritorio\CursoLinq\Conversion-Operators-In-LINQ\obj\Debug\netcoreapp3.1\Conversion-Operators-In-LINQ.pdb
+C:\Users\Liria\OneDrive\Escritorio\CursoLinq\Conversion-Operators-In-LINQ\obj\Debug\netcoreapp3.1\Conversion-Operators-In-LINQ.genruntimeconfig.cache
