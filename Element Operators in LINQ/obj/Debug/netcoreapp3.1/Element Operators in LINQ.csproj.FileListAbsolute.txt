@@ -1,0 +1,13 @@
+C:\Users\Liria\OneDrive\Escritorio\CursoLinq\Element Operators in LINQ\bin\Debug\netcoreapp3.1\Element Operators in LINQ.exe
+C:\Users\Liria\OneDrive\Escritorio\CursoLinq\Element Operators in LINQ\bin\Debug\netcoreapp3.1\Element Operators in LINQ.deps.json
+C:\Users\Liria\OneDrive\Escritorio\CursoLinq\Element Operators in LINQ\bin\Debug\netcoreapp3.1\Element Operators in LINQ.runtimeconfig.json
+C:\Users\Liria\OneDrive\Escritorio\CursoLinq\Element Operators in LINQ\bin\Debug\netcoreapp3.1\Element Operators in LINQ.runtimeconfig.dev.json
+C:\Users\Liria\OneDrive\Escritorio\CursoLinq\Element Operators in LINQ\bin\Debug\netcoreapp3.1\Element Operators in LINQ.dll
+C:\Users\Liria\OneDrive\Escritorio\CursoLinq\Element Operators in LINQ\bin\Debug\netcoreapp3.1\Element Operators in LINQ.pdb
+C:\Users\Liria\OneDrive\Escritorio\CursoLinq\Element Operators in LINQ\obj\Debug\netcoreapp3.1\Element Operators in LINQ.csprojAssemblyReference.cache
+C:\Users\Liria\OneDrive\Escritorio\CursoLinq\Element Operators in LINQ\obj\Debug\netcoreapp3.1\Element Operators in LINQ.AssemblyInfoInputs.cache
+C:\Users\Liria\OneDrive\Escritorio\CursoLinq\Element Operators in LINQ\obj\Debug\netcoreapp3.1\Element Operators in LINQ.AssemblyInfo.cs
+C:\Users\Liria\OneDrive\Escritorio\CursoLinq\Element Operators in LINQ\obj\Debug\netcoreapp3.1\Element Operators in LINQ.csproj.CoreCompileInputs.cache
+C:\Users\Liria\OneDrive\Escritorio\CursoLinq\Element Operators in LINQ\obj\Debug\netcoreapp3.1\Element Operators in LINQ.dll
+C:\Users\Liria\OneDrive\Escritorio\CursoLinq\Element Operators in LINQ\obj\Debug\netcoreapp3.1\Element Operators in LINQ.pdb
+C:\Users\Liria\OneDrive\Escritorio\CursoLinq\Element Operators in LINQ\obj\Debug\netcoreapp3.1\Element Operators in LINQ.genruntimeconfig.cache
